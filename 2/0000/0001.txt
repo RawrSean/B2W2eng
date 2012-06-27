@@ -32,7 +32,7 @@ Battle Items
 Use
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-It will not do any good using that!
+Using that will have no effect!
 It was wrapped in white fog！\xfffe
 \xf000Ă\x0001\x0000 \xfffeis getting Pumped!
 \xf000Ă\x0001\x0000's \xfffeAttack Rose!
@@ -42,8 +42,8 @@ It was wrapped in white fog！\xfffe
 \xf000Ă\x0001\x0000's \xfffeDefense Rose!
 \xf000Ă\x0001\x0000's \xfffeAccuracy Rose!
 \xf000ĉ\x0001\x0000 \xfffewas used!
-Second Pokémon\xfffemakes it impossible to aim!
-There is not room left in your PC!
+Two Pokémon\xfffemake it impossible to aim!
+Your PC is full!
 \xf000ć\x0001\x0001‘s　effect prevents the use of another item! \xfffe\xf000Ă\x0001\x0000
 It’s no good, it’s impossible\xfffeto aim at a Pokémon not in sight!
 It’s no good, it's impossible\xfffeto aim at a Pokémon not in sight!
